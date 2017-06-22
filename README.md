@@ -1,3 +1,3 @@
 ## PERSONAL LOGO AND VISUAL
 
-![](https://www.dropbox.com/s/8frnvd0c0rf31lx/logo.svg?dl=0)
+![](https://raw.githubusercontent.com/yinone/visual/master/logo.svg)
