@@ -1,3 +1,3 @@
 ## PERSONAL LOGO AND VISUAL
 
-<img src="https://github.com/yinone/visual/blob/master/logo.svg"/>
+<img src="https://www.dropbox.com/s/8frnvd0c0rf31lx/logo.svg?dl=0"/>
